@@ -24,6 +24,7 @@
   11111011100 = 2¹⁰ + 2⁹ + 2⁸ + 2⁷ + 2⁶ + 2⁵ + 2⁶ + 2⁵ + 2⁴ + 2³ + 2² + 2¹ = 2012  
   **Para converter um decimal para binário:**  
   *! Divide por 2 e pega os restos do último para o primeiro*  
+  Todo computador é um sistema que usa base de dois estados (on/off), então toda memória é em base de 2 (0/1)
   
   ### 2. Hardware 
 É toda a parte física do computador, componentes internos e partes externas como monitor e teclado.
@@ -40,15 +41,17 @@ Utilização a longo prazo paar armazenamento.
 #### CPU ou Processador
 CPU = Unidade Central de Processamento
 Cerebro do Computador. Componente responsável por todas as ações necessárias para o funcionamento do aparelho. 
+2 GHz = transfere dados a uma velocidade de 2 bilhões de ciclos por segundo.
 
 ### 3. Software
 Conjunto de instruções que diz o que o hardware tem que fazer como navegador de internet e processador de texto. 
 
 #### Algoritmo
+Sua principal função atualmente é entender o comportamento humano na internet, principalmente, nas redes sociais. Influenciam anúncios, vídeos recomendados e sugestões de filmes e séries. 
+É uma sequência de instruções realizados de forma sistématica com a finalidade de resolver um problema. Comandos simples e exatos que resolvem problemas.
+Um input passa por várias etapas para modificar seu estado e transformar em um output.
 
 #### Sistemas Operacionais
-
-#### Tipos de arquivos
 
 #### Linguagem de programação
 
@@ -66,4 +69,6 @@ Conjunto de instruções que diz o que o hardware tem que fazer como navegador d
 
 ###### Referências
 https://materialpublic.imd.ufrn.br/curso/disciplina/2/61/1/5#:~:text=N%C3%BAmeros%20bin%C3%A1rios%2C%20s%C3%A3o%20n%C3%BAmeros%20que,os%20n%C3%BAmeros%20s%C3%A3o%20sempre%20bin%C3%A1rios  
-https://edu.gcfglobal.org/pt/informatica-basica/o-que-sao-os-computadores/1/
+https://edu.gcfglobal.org/pt/informatica-basica/o-que-sao-os-computadores/1/  
+https://www.buscape.com.br/memoria-ram/conteudo/para-que-serve-memoria-ram-pc
+https://tecnoblog.net/responde/o-que-e-cpu/
