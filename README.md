@@ -66,12 +66,23 @@ O programador tem a possibilidade de criar programas a partir de um conjunto de 
 Principais linguagens de programação: Java, JavaScript, Python, Linguagem C...  
 
 #### Compiladores 🪄
+Algumas linguagens possuem uma sintaxe rígida e são pouco flexíveis, por isso, para o fluxo de desenvolvimento existe a necessidade de compilar o código e gerar uma adaptação a partir dos arquivos.  
+O VS code é um exemplo de compilador.  
+A ideia principal é traduzir o código para a linguagem Assembly.  
+É um tradutor de linguagens de programação para linguagens de programação do nível da máquina, ou seja, as letras são transformadas em números binários. 
 
 ### 4. Internet 🌐
+É uma rede de conexões globais que permite o compartilhamento instântaneo de dados entre dispositivos.
 
 ### 5. FRONT 🖼️
+É a parte visual de um site / aplicação web, ou seja, a parte ao qual interagimos.  
+É desenvolvida uma interface gráfica com tecnologias como HTML, CSS, JavaScript.  
+Código que roda em navegador web como Chrome, Firefox ou Safari.
 
 ### 6. BACK 🗄️
+Parte que processa os dados recebidos pelo front.  
+Tem o papel de fazer uma ponte entre o os dados do navegador e o banco de dados, assim como ao contrário.  
+Validam regra de negócio, dados de propriedade correta e garantias de segurança.  
 
 ###### Indicações 💡
 - O código bilionário - O caso google earth
@@ -84,4 +95,5 @@ https://www.buscape.com.br/memoria-ram/conteudo/para-que-serve-memoria-ram-pc
 https://tecnoblog.net/responde/o-que-e-cpu/
 https://tallos.com.br/blog/o-que-e-algoritmo-e-como-ele-funciona/#:~:text=Um%20algoritmo%20nada%20mais%20%C3%A9,instru%C3%A7%C3%B5es%20bastante%20simples%20e%20exatas
 https://kenzie.com.br/blog/linguagem-de-programacao/#:~:text=O%20que%20%C3%A9%20linguagem%20de,chave%2C%20regras%20sem%C3%A2nticas%20e%20sint%C3%A1ticas
-
+https://blog.betrybe.com/tecnologia/compilador-o-que-e/
+https://www.buscape.com.br/modem-e-roteador/conteudo/o-que-e-internet
